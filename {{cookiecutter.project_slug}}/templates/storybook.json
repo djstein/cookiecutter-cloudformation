@@ -1,0 +1,13 @@
+{
+  "Resources": {
+    "{{cookiecutter.storybook}}": {
+      "Type": "AWS::S3::Bucket",
+      "Properties": {
+        "AccessControl": "PublicRead",
+        "WebsiteConfiguration": {
+          "IndexDocument": "index.html"
+        }
+      }
+    }
+  }
+}
