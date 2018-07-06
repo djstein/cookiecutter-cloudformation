@@ -1,7 +1,7 @@
-# cookiecutter-cloudfront
+# cookiecutter-cloudformation
 
-Cookiecutter for CloudFront
+Cookiecutter for CloudFormation
 
 ```bash
-cookiecutter https://github.com/djstein/cookiecutter-cloudfront.git
+cookiecutter https://github.com/djstein/cookiecutter-cloudformation.git
 ```
